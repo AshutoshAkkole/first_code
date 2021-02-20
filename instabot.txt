@@ -1,0 +1,9 @@
+Welcome to instabot!!!
+
+what we will create is
+
+1) automation posting on instagram with given time with post includes caption and tags
+
+this is what i though i also want to create auto story posting but it's a bit hard i think :(
+
+first let's concentrate at 1.
